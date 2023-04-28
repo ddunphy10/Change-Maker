@@ -1,0 +1,12 @@
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\bin\Debug\netcoreapp3.1\Change Calculator.exe
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\bin\Debug\netcoreapp3.1\Change Calculator.deps.json
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\bin\Debug\netcoreapp3.1\Change Calculator.runtimeconfig.json
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\bin\Debug\netcoreapp3.1\Change Calculator.runtimeconfig.dev.json
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\bin\Debug\netcoreapp3.1\Change Calculator.dll
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\bin\Debug\netcoreapp3.1\Change Calculator.pdb
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\obj\Debug\netcoreapp3.1\Change Calculator.AssemblyInfoInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\obj\Debug\netcoreapp3.1\Change Calculator.AssemblyInfo.cs
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\obj\Debug\netcoreapp3.1\Change Calculator.csproj.CoreCompileInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\obj\Debug\netcoreapp3.1\Change Calculator.dll
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\obj\Debug\netcoreapp3.1\Change Calculator.pdb
+D:\Dayton\Personal Projects\C# Projects\Change Calculator\obj\Debug\netcoreapp3.1\Change Calculator.genruntimeconfig.cache
